@@ -1,0 +1,26 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 120px 20px;
+    background-color: #f9fafb;
+  }
+  
+  .title {
+    font-size: 48px;
+    font-weight: bold;
+    color: #111827;
+  }
+  
+  .subtitle {
+    font-size: 20px;
+    color: #6b7280;
+    margin-top: 16px;
+    max-width: 600px;
+  }
+  
+  .cta {
+    margin-top: 32px;
+  }
+  
